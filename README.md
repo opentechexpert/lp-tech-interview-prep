@@ -1,2 +1,4 @@
-# lp-tech-interview-prep
-How to prep to tech interview at big techs as Amazon and Google
+#Prepação para entrevista técnica
+##LP Aprenda em Público
+
+Como se preparar para entrevista técnica em big techs como Amazon and Google.
