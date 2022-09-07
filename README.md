@@ -1,3 +1,3 @@
 # Solve Me First
-To compute the sum of two integers, implement the function solvingMyFirstFunction.
+Instruction can be found at https://www.hackerrank.com/challenges/solve-me-first/problem
 
