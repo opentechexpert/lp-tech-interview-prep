@@ -1,3 +1,3 @@
-# Tech interview prep
-## Learn in Public
-How to prep to tech interview at big techs as Amazon and Google
+# Solve Me First
+To compute the sum of two integers, implement the function solveMeFirst.
+
