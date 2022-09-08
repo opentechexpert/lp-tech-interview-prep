@@ -19,14 +19,17 @@ function readLine() {
 }
 
 function solveMeFirst(a, b) {
-  // Hint: Type return a+b below   
+  // Hint: Type return a+b below  
 }
 
 
 function main() {
-    var a = parseInt(readLine());
-    var b = parseInt(readLine());;
+    const a = parseInt(readLine());
+    const b = parseInt(readLine());
+    const outPutResult = parseInt(readLine());
 
-    var res = solveMeFirst(a, b);
-    console.log(res);
+    const res = solveMeFirst(a, b);
+    const log = 'return: ' + res + ', expected: ' + outPutResult
+
+    console.log(outPutResult == res ? '✅ ' + log : '❌ ' + log);
 }
